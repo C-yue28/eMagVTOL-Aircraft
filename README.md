@@ -12,5 +12,5 @@
 
 ## Mechanical parameters
 ### - Rib angle: $\theta$
-### - Rib offset: $D_{rib}=\frac{2c \cos\theta}{3 \sin\theta}$
-### - Rib count: $N_{rib}=floor\left(\frac{b}{2D_{rib}}\right)$
+### - Rib offset: $D_{rib} = \frac{2c \cos\theta}{3 \sin\theta}$
+### - Rib count: $N_{rib} = floor\left(\frac{b}{2D_{rib}}\right)$
