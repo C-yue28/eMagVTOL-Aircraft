@@ -1,5 +1,8 @@
 # A Parametric and Fully 3D-Printable Wing
 
+Source document:
+[Link](https://cad.onshape.com/documents/994ef09ed7dc85bca4957654/w/616230e147a2c0f7c4bdc911/e/db2197d95437852ea5b986c2?renderMode=0&rightPanel=variableTablePanel&uiState=6a349399134192c9540461cb)
+
 ## Basic design parameters
 - Chord Length: $c$ - default 100 mm
 - Aspect Ratio: $AR$ - default 10
